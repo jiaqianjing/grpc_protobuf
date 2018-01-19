@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ApexVcsIndex">
+    <index-move-record>
+      <option name="firstPath" value="/pb_demo_02/example/grpchello_pb2.py" />
+      <option name="path" value="/pb_demo_02/demo/grpchello_pb2.py" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/pb_demo_02/example/__init__.py" />
+      <option name="path" value="/pb_demo_02/demo/__init__.py" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/pb_demo_02/example/grpchello_pb2_grpc.py" />
+      <option name="path" value="/pb_demo_02/demo/grpchello_pb2_grpc.py" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/pb_demo_02/example/grpchello.proto" />
+      <option name="path" value="/pb_demo_02/demo/grpchello.proto" />
+    </index-move-record>
+  </component>
+</project>
